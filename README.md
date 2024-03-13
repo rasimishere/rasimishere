@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently learning **C++**
 
-- 💬 Ask me about **games**
-
 - 📫 How to reach me [Click](https://discord.com/users/425346207905349645)
 
 - 📄 Know about my experiences [Click](https://read.cv/rasimhuseynov)
