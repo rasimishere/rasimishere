@@ -1,4 +1,4 @@
-![MasterHead](https://r.resimlink.com/hitZ4DxdHjc.jpg)
+![MasterHead](https://r.resimlink.com/uY0y8BZ4.png)
 <h1 align="center">Hi 👋, I'm Rasim</h1>
 <h3 align="center">A passionate Discord Bot Developer from Poland</h3>
 
