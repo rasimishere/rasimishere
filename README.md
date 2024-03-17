@@ -1,10 +1,8 @@
 ![MasterHead](https://r.resimlink.com/uY0y8BZ4.png)
-<h1 align="center">Hi 👋, I'm Rasim</h1>
-<h3 align="center">A passionate Discord Bot Developer from Poland</h3>
+<h1 align="center">what's up bro</h1>
+<h3 align="center">A Discord Bot Developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasimishere&label=Profile%20views&color=0e75b6&style=flat" alt="rasimishere" /> </p>
-
-- 🔭 I’m currently learning **C++**
 
 - 📫 How to reach me [Click](https://discord.com/users/425346207905349645)
 
