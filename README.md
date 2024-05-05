@@ -1,6 +1,6 @@
 ![MasterHead](https://r.resimlink.com/uY0y8BZ4.png)
 <h1 align="center">Hey there! I'm Rasim.</h1>
-<h3 align="center">A Bot Developer from Turkiye</h3>
+<h3 align="center">A Bot Developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasimishere&label=Profile%20views&color=0e75b6&style=flat" alt="rasimishere" /> </p>
 
